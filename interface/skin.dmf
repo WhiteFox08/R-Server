@@ -102,6 +102,10 @@ macro "default"
 		name = "F1"
 		command = "adminhelp"
 	elem
+	  name = "F3"
+	  command = "asay"
+	  is-disabled = false
+	elem
 		name = "CTRL+SHIFT+F1+REP"
 		command = ".options"
 	elem
@@ -296,6 +300,10 @@ macro "hotkeys"
 		name = "F1"
 		command = "adminhelp"
 	elem
+		name = "F3"
+		command = "asay"
+		is-disabled = false
+	elem
 		name = "CTRL+SHIFT+F1+REP"
 		command = ".options"
 	elem
@@ -418,6 +426,10 @@ macro "robot-default"
 	elem
 		name = "F1"
 		command = "adminhelp"
+	elem
+		name = "F3"
+		command = "asay"
+		is-disabled = false
 	elem
 		name = "CTRL+SHIFT+F1+REP"
 		command = ".options"
@@ -591,6 +603,10 @@ macro "robot-hotkeys"
 	elem
 		name = "F1"
 		command = "adminhelp"
+	elem
+		name = "F3"
+		command = "asay"
+		is-disabled = false
 	elem
 		name = "CTRL+SHIFT+F1+REP"
 		command = ".options"

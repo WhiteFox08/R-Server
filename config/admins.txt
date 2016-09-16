@@ -8,5 +8,6 @@
 # NOTE: syntax was changed to allow hyphenation of ranknames, since spaces are stripped.      #
 ###############################################################################################
 Foosili = Host
+Whitefox08 = Host
 Chronitonity = Headmin
 Augphlosion = GameMaster
