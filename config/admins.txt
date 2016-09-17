@@ -11,3 +11,5 @@ Foosili = Host
 Whitefox08 = Host
 Chronitonity = Headmin
 Augphlosion = GameMaster
+CobyB = GameMaster
+Doobiedoo23 = GameMaster
