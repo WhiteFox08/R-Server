@@ -28,7 +28,7 @@ endmap
 map ministation
 	friendlyname Mini Station
 	maxplayers 30
-	voteweight 0
+	voteweight 1
 endmap
 
 map birdstation
