@@ -1,6 +1,6 @@
 ##/tg/station v1.0.1
 
-[![Build Status](https://travis-ci.org/tgstation/tgstation.png)](https://travis-ci.org/tgstation/tgstation)
+[![Build Status](https://travis-ci.org/WhiteFox08/R-Server.svg?branch=master)](https://travis-ci.org/WhiteFox08/R-Server)
 
 
 **Website:** http://www.tgstation13.org <BR>
